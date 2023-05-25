@@ -34,4 +34,4 @@ A highly experienced full-stack developer with 5+ years of experience in creatin
 
 ⚡️ Fun fact: I have created Shopify Apps from scratch. From research, development, server management, graphic designs, videos, ads, and even customer support! Now, planning to sell the apps 😊
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=clydesantiago&theme=light)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=clydesantiago&theme=dark)](https://git.io/streak-stats)
