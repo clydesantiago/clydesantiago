@@ -28,7 +28,7 @@ A highly experienced full-stack developer with 5+ years of experience in creatin
 
 🧠 I'm currently learning OpenAI / LangChain
 
-💬 Ask me about Laravel / Vue/ React
+💬 Ask me about Laravel / Vue / React
 
 📫 Email me at hello@clydesantiago.com
 
